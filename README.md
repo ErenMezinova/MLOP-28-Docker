@@ -1,4 +1,4 @@
-# MLOP-28-Docker
+# MLOP28-Mezinova-Docker
 Домашнее задание по теме «Docker»
 
 Содержимое Dockerfile
