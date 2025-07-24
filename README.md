@@ -1,5 +1,5 @@
 # MLOP28-Mezinova-Docker
-Домашнее задание по теме «Docker»
+«Docker»
 
 Содержимое Dockerfile
 ```
